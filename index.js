@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const logDriverNames = drivers.forEach(function(name) {
+  console.log(name);
+]);
